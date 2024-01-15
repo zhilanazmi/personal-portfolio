@@ -8,7 +8,7 @@
     "subTitle": "<span>Fullstack Developer</span> based in <span>BDO, ID.</span>",
     "ImgLink": "/images/home-banner.png",
     "phone": "+123 45 666 7788",
-    "email": "zhilannazmi@gmail.com",
+    "email": "admin@zhilanazmi.com",
     "btnText": "Work with me",
     "socialData": [
       {
@@ -30,7 +30,7 @@
       "ImgLink": "/images/about-banner.png",
       "name": "Zhillan Azmi",
       "designation": "Fullstack Developer <span>based in</span>BDO, ID.",
-      "resumeCv": "/Resume.pdf"
+      "resumeCv": ""
     },
     "aboutRight": {
       "aboutText": "Born in 2003, living in BDO, ID. We provide on-screen design for websites and apps, as well as front-end implementation. We will continue to pursue a wide range of expressions and better code by pursuing our “likes”.",
@@ -45,18 +45,18 @@
         },
         {
           "icon": "envelope",
-          "data": "zhilannazmi@gmail.com"
+          "data": "admin@zhilanazmi.com"
         },
         {
           "icon": "map",
-          "data": "California, USA"
+          "data": "Bandung, ID."
         }
       ],
       "archivement": [
         {
-          "number": "10+",
+          "number": "5+",
           "meta": "Years <br /> experience...",
-          "text": "Hello there! My name is <span>Zhillan Azmi</span>. I am a web designer & developer, and Im very passionate and dedicated to my work."
+          "text": "Hello there! My name is <span>Zhillan Azmi</span>. I am a web developer & cyber security enthusiast, and im very passionate and dedicated to my work."
         },
         {
           "number": "3",
@@ -69,25 +69,25 @@
   },
   "experienceData": {
     "text": "Hello there! My name is Zhillan Azmi. I am a web designer & developer, and Im very passionate and dedicated to my work.",
-    "resumeCv": "/Resume.pdf",
+    "resumeCv": "",
     "experience": [
       {
         "start": "2020",
         "end": "Present",
-        "title": "LEAD UI/UX DESIGNER",
+        "title": "Web Developer",
         "subtitle": "UI/UX Lead"
       },
       {
         "start": "2017",
-        "end": "2018",
-        "title": "SENIOR UI/UX DESIGNER",
-        "subtitle": "UI/UX Designer"
+        "end": "Present",
+        "title": "Cyber Security",
+        "subtitle": ""
       },
       {
-        "start": "2015",
-        "end": "2017",
-        "title": "WEB DESIGN AND DEVELOPER",
-        "subtitle": "Jr. UI/UX Designer"
+        "start": "2022",
+        "end": "Present",
+        "title": "Pentester",
+        "subtitle": ""
       }
     ]
   },
